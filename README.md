@@ -1,6 +1,10 @@
-# PrestaShopTest
+<h1 align="center">
+    PrestaShopTest
+</h1>
 
-This project is a Java-based test automation suite using Maven, Junit, Selenium, and Cucumber. It is designed to support behavior-driven development (BDD) with Selenium web driver to automate testing of web applications. Initial version of this project was developed as final project for the QA Automation Bootcamp at [Coders Lab](https://coderslab.pl/).
+This project is a Java-based test automation suite using Maven, Junit, Selenium, and Cucumber. It is designed to support
+behavior-driven development (BDD) with Selenium web driver to automate testing of web applications. Initial version of
+this project was developed as final project for the QA Automation Bootcamp at [Coders Lab](https://coderslab.pl/).
 
 ## Prerequisites
 
@@ -18,4 +22,5 @@ The following code is distributed under the [GPLv3](./LICENSE).
 
 ## Disclaimer
 
-This project is for educational purposes only. Further development is occasional and serves mostly as a playground for new versions of libraries and tools.
+This project is for educational purposes only. Further development is occasional and serves mostly as a playground for
+new versions of libraries and tools.
